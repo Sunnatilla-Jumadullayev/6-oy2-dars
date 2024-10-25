@@ -1,0 +1,23 @@
+.Hero {
+  background-color: black;
+}
+
+.hero {
+  color: aliceblue;
+  padding: 110px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero__main {
+  width: 457px;
+}
+.hero__title {
+  text-align: center;
+  font-size: 64px;
+  line-height: 80px;
+}
+
+img {
+  width: 400px;
+}/*# sourceMappingURL=Hero.css.map */

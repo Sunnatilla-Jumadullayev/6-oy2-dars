@@ -1,0 +1,28 @@
+.about__link {
+  text-align: center;
+  color: rgb(26, 106, 170);
+  margin-bottom: 10px;
+}
+.about__title {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+.about__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about__card {
+  width: 524px;
+  padding: 30px;
+  background-color: #f6f6f6;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  border-radius: 24px;
+}
+.about__title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}/*# sourceMappingURL=about.css.map */
