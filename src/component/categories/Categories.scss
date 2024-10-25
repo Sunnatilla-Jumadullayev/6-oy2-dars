@@ -1,0 +1,19 @@
+.ctg {
+  margin-top: 50px;
+  display: flex;
+  gap: 30px;
+
+  &__card {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    background-color: #f6f6f6;
+    padding: 20px;
+    border-radius: 10px;
+    width: 350px;
+  }
+}
+img {
+  width: 45px;
+  height: 200px;
+}

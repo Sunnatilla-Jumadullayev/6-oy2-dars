@@ -1,0 +1,25 @@
+.Hero {
+  background-color: black;
+}
+.hero {
+  color: aliceblue;
+  padding: 110px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  &__main {
+    width: 457px;
+  }
+  &__title {
+    text-align: center;
+    font-size: 64px;
+    line-height: 80px;
+  }
+  //   &__img {
+  //     width: 460px;
+  //     height: 560px;
+  //   }
+}
+img {
+  width: 400px;
+}

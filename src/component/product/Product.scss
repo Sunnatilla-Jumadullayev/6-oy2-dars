@@ -1,0 +1,47 @@
+.product {
+  margin-top: 50px;
+  &__link {
+    text-align: center;
+    color: rgb(26, 106, 170);
+    margin-bottom: 10px;
+  }
+  &__title {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+  }
+  &__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 50px;
+  }
+  &__card {
+    text-align: center;
+    width: 335px;
+  }
+  &__card-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  &__prise {
+    font-size: 30px;
+    font-weight: 700;
+  }
+  &__btn {
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #3858d6;
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: none;
+    font-size: 20px;
+  }
+}
+img {
+  width: 200px;
+  height: 200px;
+}

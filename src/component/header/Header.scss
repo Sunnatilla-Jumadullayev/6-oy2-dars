@@ -1,0 +1,22 @@
+header {
+  background-color: rgb(3, 3, 3);
+}
+.header {
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 30px;
+  justify-content: space-between;
+  color: White;
+  &__list {
+    display: flex;
+    gap: 20px;
+    color: #8b8e99;
+  }
+  &__item {
+    font-size: 18px;
+  }
+  &__left {
+    margin-right: 10px;
+    color: aliceblue;
+  }
+}

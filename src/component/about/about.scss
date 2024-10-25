@@ -1,0 +1,30 @@
+.about {
+  &__link {
+    text-align: center;
+    color: rgb(26, 106, 170);
+    margin-bottom: 10px;
+  }
+  &__title {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+  }
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__card {
+    width: 524px;
+    padding: 30px;
+    background-color: #f6f6f6;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    border-radius: 24px;
+  }
+  &__title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+}
